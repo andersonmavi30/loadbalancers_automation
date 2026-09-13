@@ -118,6 +118,10 @@ Este repositorio hace parte de mi desarrollo continuo en:
 
 Se agregarán progresivamente nuevos laboratorios, scripts, playbooks e integraciones.
 
+## 📄 Licencia
+
+Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
+
 ## 👨‍💻 Autor
 
 **Anderson Martinez Virviescas**
