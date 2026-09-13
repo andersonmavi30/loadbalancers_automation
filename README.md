@@ -117,6 +117,10 @@ This repository is part of my continuous development in:
 
 New labs, scripts, playbooks and integrations will be added progressively.
 
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
 ## 👨‍💻 Author
 
 **Anderson Martinez Virviescas**
